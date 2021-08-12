@@ -14,7 +14,7 @@
 
 ## Stack and tools
 
-https://github-readme-stats.vercel.app/api?username=Yuri-jm
+[![Yuri Github stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm]
 
 
 
