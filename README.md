@@ -17,8 +17,6 @@
 
 [![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-jm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <code><img height= '20' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 
 <code><img height= '20' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
