@@ -6,11 +6,11 @@
 ## I'm Yuri Mayrink
 
 
-- 💻 I’m currently working on a xml reader that can integrate to an external banking application
+- 💻 I’m currently working on a xml reader that can integrate to an external banking application, and returns to our customer some analytics info.
 - 📚 I’m currently learning C#, ASP.NET MVC, API's and OOP concepts
 - 👯 I’m looking to collaborate on projects that involves these languages
 - 🏡I'm from Rio de Janeiro
-- 📤2021 Goals: Find a new Backend Jr position
+- 📤2021 Goals: Find a Backend Jr position
 
 ## Stack and tools
 
