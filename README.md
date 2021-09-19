@@ -15,9 +15,9 @@
 ## Stack and tools
 
 
-[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm)](https://github.com/Yuri-jm/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuri-jm&repo=github-readme-stats)](https://github.com/Yuri-jm/github-readme-stats)
+
 
 
 <code><img height= '20' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
