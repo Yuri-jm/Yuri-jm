@@ -15,6 +15,13 @@
 ## Stack and tools
 
 
+<a href="https://github.com/Yuri-jm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-jm&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Yuri-jm/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuri-jm&repo=convoychat" />
+</a>
+
 [![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm&show_icons=true&theme=radical)](https://github.com/Yuri-jm/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-jm&layout=compact&theme=radical)](https://github.com/Yuri-jm/github-readme-stats)
 
