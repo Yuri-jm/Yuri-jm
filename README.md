@@ -15,7 +15,7 @@
 ## Stack and tools
 
 
-[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm)](https://github.com/Yuri-jm/github-readme-stats)
+[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-jm&show_icons=true&theme=radical)](https://github.com/Yuri-jm/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-jm)](https://github.com/Yuri-jm/github-readme-stats)
 
 
