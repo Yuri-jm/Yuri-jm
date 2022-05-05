@@ -10,7 +10,7 @@
 - 📚 I’m currently learning C#, ASP.NET MVC, API's and OOP concepts
 - 👯 I’m looking to collaborate on projects that involves these languages
 - 🏡I'm from Rio de Janeiro
-- 📤2021 Goals: Find a Backend Jr position
+- 📤2022 Goals: Find a Backend Jr position
 
 ## Stack and tools
 
